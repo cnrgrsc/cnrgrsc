@@ -26,6 +26,7 @@ I'm Caner Güresci.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cnrgrsc&count_private=true&show_icons=true" />
 </a>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnrgrsc" />
 </a>
