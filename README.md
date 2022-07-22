@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**cnrgrsc/cnrgrsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Caner Güresci.
 
 - 🔭 I’m currently working as web .Net developer.
@@ -23,10 +20,7 @@ I'm Caner Güresci.
 <code><img height="20" src="https://user-images.githubusercontent.com/54549934/93969089-b1e25080-fd88-11ea-8ff6-16d721c451e1.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/54549934/93969585-d7238e80-fd89-11ea-9f99-be41b751c27e.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cnrgrsc&count_private=true&show_icons=true" />
-</a>
-</br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnrgrsc" />
 </a>
