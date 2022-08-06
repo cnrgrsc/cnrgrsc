@@ -3,7 +3,6 @@
 I'm Caner Güresci.
 
 - 🔭 I’m currently working as web .Net developer.
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: [e-mail](mailto:cnrgrsc@gmail.com)
 - ⚡ Fun fact: Love code, save world.
 
