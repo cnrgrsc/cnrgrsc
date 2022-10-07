@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ulukummis" target="blank"><img src="https://img.shields.io/twitter/follow/fcakiroglu16?logo=twitter&style=for-the-badge" alt="ulukummis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ulukummis" target="blank"><img src="https://img.shields.io/twitter/follow/ulukummis?logo=twitter&style=for-the-badge" alt="ulukummis" /></a> </p>
 
 - 📝 I regularly write articles on [www.yazilimmitolojisi.com](www.yazilimmitolojisi.com)
 
