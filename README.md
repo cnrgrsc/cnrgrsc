@@ -12,10 +12,10 @@
 ```csharp
 public sealed class Caner : IBackendEngineer
 {
-    public string Role     => ".NET Backend Developer @ İstanbul Büyükşehir Belediyesi (CBS)";
-    public string[] Focus  => ["API Gateway", "Kimlik & SSO (JWT / OIDC)", "Event-driven mimari", "DevSecOps"];
-    public string[] Stack  => ["C#", ".NET 8", "Kafka", "Redis", "PostgreSQL/PostGIS", "Oracle", "Kubernetes"];
-    public string SideProject => "EvDeneyim — konut & mahalle deneyimi platformu (Web + iOS + Android)";
+    string   Role  => ".NET Backend Developer @ İBB (CBS)";
+    string[] Focus => ["API Gateway", "SSO / OIDC", "Event-driven"];
+    string[] Stack => [".NET 8", "Kafka", "Redis", "PostgreSQL", "K8s"];
+    string   Side  => "EvDeneyim — Web + iOS + Android";
 }
 ```
 
