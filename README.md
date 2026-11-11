@@ -54,7 +54,7 @@ public sealed class Caner : IBackendEngineer
 
 | Proje | Açıklama |
 |---|---|
-| [DevBridge — Unity MCP](https://github.com/cnrgrsc/unity-mcp) | Claude, Cursor ve Copilot'un Unity Editor'ü yönetmesini sağlayan MCP sunucusu (C#, Python) |
+| [DevBridge — Unity MCP](https://github.com/cnrgrsc/unity-mcp) | Açık kaynak Unity MCP sunucusunu genişlettim: Ads, Analytics, Multiplayer, Cloud, Terrain araçları (C#, Python) |
 | [Circuit Breaker Pattern](https://github.com/cnrgrsc/CircuitBreakerPattern) | .NET 8 + Polly ile dayanıklılık deseni, xUnit testleri |
 | [E-Commerce Microservices](https://github.com/cnrgrsc/EccomerceMicroservices) | Kafka, RabbitMQ, Redis, Elasticsearch, Keycloak içeren mikroservis altyapısı |
 | [Adesso World League](https://github.com/cnrgrsc/AdessoWorldLeague) | Clean Architecture, MediatR ve FluentValidation ile kural tabanlı kura sistemi |
