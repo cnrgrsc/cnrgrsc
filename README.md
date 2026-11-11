@@ -1,48 +1,64 @@
-<h1 align="center">Merhaba, Ben Caner Güreşci 👋</h1>
-<h3 align="center">👨‍💻 Yazılım Geliştirici</h3>
+<h1 align="center">Caner Güreşci</h1>
+<p align="center"><b>.NET Backend Developer</b> · API Gateway · Kimlik & SSO · Dağıtık Sistemler · DevSecOps</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cnrgrsc&label=Profile%20views&color=0e75b6&style=flat" alt="cnrgrsc" />
+  <a href="https://www.linkedin.com/in/caner-g%C3%BCre%C5%9Fci/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://canerguresci.com"><img src="https://img.shields.io/badge/canerguresci.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+  <a href="https://yazilimmitolojisi.com"><img src="https://img.shields.io/badge/Blog-yazilimmitolojisi.com-6D28D9?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://medium.com/@cnrgrsc"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:cnrgrsc@gmail.com"><img src="https://img.shields.io/badge/E--posta-cnrgrsc%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"/></a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/cnrgrsc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/cnrgrsc?logo=twitter&style=for-the-badge" alt="cnrgrsc" />
-  </a>
+```csharp
+public sealed class Caner : IBackendEngineer
+{
+    public string Role     => ".NET Backend Developer @ İstanbul Büyükşehir Belediyesi (CBS)";
+    public string[] Focus  => ["API Gateway", "Kimlik & SSO (JWT / OIDC)", "Event-driven mimari", "DevSecOps"];
+    public string[] Stack  => ["C#", ".NET 8", "Kafka", "Redis", "PostgreSQL/PostGIS", "Oracle", "Kubernetes"];
+    public string SideProject => "EvDeneyim — konut & mahalle deneyimi platformu (Web + iOS + Android)";
+}
+```
+
+### 🔭 Neler yapıyorum
+
+- **İBB Coğrafi Bilgi Sistemleri**'nde Harita İstanbul, Zaman Makinesi ve İBB Eczane gibi kent platformlarının backend servislerini geliştiriyorum.
+- SQL'den dinamik REST endpoint üreten **.NET 8 API Gateway**: cache katmanları, thread pool tuning, MongoDB tabanlı log/teşhis, **İBB SSO (OpenID Connect)** entegrasyonu.
+- **Token & kimlik servisleri**: JWT, Redis + DB fallback, Polly ile dayanıklılık, menü/sayfa/olay bazlı yetkilendirme.
+- **Kafka & MongoDB** ile olay tabanlı kullanıcı servisleri, **OpenTelemetry** tabanlı izleme paketleri.
+- **AppScan**: ZAP, Semgrep, Trivy, MobSF ve Lighthouse taramalarını tek panelde yöneten güvenlik platformu.
+- Kurucusu olduğum **[EvDeneyim](https://www.evdeneyim.com.tr)**: Next.js + Flutter ile uçtan uca geliştirildi, App Store ve Google Play'de yayında.
+
+### 🧰 Teknolojiler
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
-- 🖋️ Düzenli olarak [www.yazilimmitolojisi.com](www.yazilimmitolojisi.com) üzerinde yazılar yazıyorum.
-- 📫 Bana nasıl ulaşılacağı: **cnrgrsc@gmail.com**
+### 📌 Öne çıkan açık kaynak projeler
 
-<h3 align="center">Benimle Bağlantı Kurun:</h3>
-<p align="center">
-<!-- Sosyal medya bağlantıları -->
-</p>
-
-<h3 align="center">Kullandığım Diller ve Araçlar:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/EF_Core-007ACC?style=for-the-badge&logo=entity-framework&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/NHibernate-8E24AA?style=for-the-badge&logoColor=white" alt="NHibernate" />
-  <!-- Diğer diller ve araçlar -->
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnrgrsc&show_icons=true&locale=en&layout=compact" alt="cnrgrsc" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrgrsc&show_icons=true&locale=en" alt="cnrgrsc" />
-</p>
+| Proje | Açıklama |
+|---|---|
+| [DevBridge — Unity MCP](https://github.com/cnrgrsc/unity-mcp) | Claude, Cursor ve Copilot'un Unity Editor'ü yönetmesini sağlayan MCP sunucusu (C#, Python) |
+| [Circuit Breaker Pattern](https://github.com/cnrgrsc/CircuitBreakerPattern) | .NET 8 + Polly ile dayanıklılık deseni, xUnit testleri |
+| [E-Commerce Microservices](https://github.com/cnrgrsc/EccomerceMicroservices) | Kafka, RabbitMQ, Redis, Elasticsearch, Keycloak içeren mikroservis altyapısı |
+| [Adesso World League](https://github.com/cnrgrsc/AdessoWorldLeague) | Clean Architecture, MediatR ve FluentValidation ile kural tabanlı kura sistemi |
+| [Darkndark Addons](https://github.com/cnrgrsc/darkndark-addons) | Lua eklentileri; GitHub Actions ile test ve otomatik sürüm hattı |
 
 ---
-
-<p align="center">
-  <b>🌐 Kişisel Web Sitem:</b> <a href="https://canerguresci.com">canerguresci.com</a>
-</p>
+<p align="center"><i>Yazılım mimarisi ve .NET üzerine yazılar → <a href="https://yazilimmitolojisi.com">yazilimmitolojisi.com</a></i></p>
